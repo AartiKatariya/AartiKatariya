@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AartiKatariya
 - 👀 I’m interested in learning new tecnologies
-- 📍 I’m pworking in _VOIS.
+- 📍 Currently I’m working in _VOIS.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/aarti-katariya-27b390193), [Github](https://github.com/AartiKatariya/AartiKatariya)
 
 <!---
